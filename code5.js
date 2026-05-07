@@ -25,6 +25,14 @@ gdjs.JUEGO_32COMPLETADOCode.GDtitulo_9595subvidaObjects1= [];
 gdjs.JUEGO_32COMPLETADOCode.GDtitulo_9595subvidaObjects2= [];
 gdjs.JUEGO_32COMPLETADOCode.GD_95951Objects1= [];
 gdjs.JUEGO_32COMPLETADOCode.GD_95951Objects2= [];
+gdjs.JUEGO_32COMPLETADOCode.GDShadedLightJoystickObjects1= [];
+gdjs.JUEGO_32COMPLETADOCode.GDShadedLightJoystickObjects2= [];
+gdjs.JUEGO_32COMPLETADOCode.GDA_9595ButtonObjects1= [];
+gdjs.JUEGO_32COMPLETADOCode.GDA_9595ButtonObjects2= [];
+gdjs.JUEGO_32COMPLETADOCode.GDB_9595ButtonObjects1= [];
+gdjs.JUEGO_32COMPLETADOCode.GDB_9595ButtonObjects2= [];
+gdjs.JUEGO_32COMPLETADOCode.GDFireballObjects1= [];
+gdjs.JUEGO_32COMPLETADOCode.GDFireballObjects2= [];
 
 
 gdjs.JUEGO_32COMPLETADOCode.eventsList0 = function(runtimeScene) {
@@ -80,6 +88,14 @@ gdjs.JUEGO_32COMPLETADOCode.GDtitulo_9595subvidaObjects1.length = 0;
 gdjs.JUEGO_32COMPLETADOCode.GDtitulo_9595subvidaObjects2.length = 0;
 gdjs.JUEGO_32COMPLETADOCode.GD_95951Objects1.length = 0;
 gdjs.JUEGO_32COMPLETADOCode.GD_95951Objects2.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDShadedLightJoystickObjects1.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDShadedLightJoystickObjects2.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDA_9595ButtonObjects1.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDA_9595ButtonObjects2.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDB_9595ButtonObjects1.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDB_9595ButtonObjects2.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDFireballObjects1.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDFireballObjects2.length = 0;
 
 gdjs.JUEGO_32COMPLETADOCode.eventsList0(runtimeScene);
 gdjs.JUEGO_32COMPLETADOCode.GDJUEGO_9595COMPLETADOObjects1.length = 0;
@@ -106,6 +122,14 @@ gdjs.JUEGO_32COMPLETADOCode.GDtitulo_9595subvidaObjects1.length = 0;
 gdjs.JUEGO_32COMPLETADOCode.GDtitulo_9595subvidaObjects2.length = 0;
 gdjs.JUEGO_32COMPLETADOCode.GD_95951Objects1.length = 0;
 gdjs.JUEGO_32COMPLETADOCode.GD_95951Objects2.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDShadedLightJoystickObjects1.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDShadedLightJoystickObjects2.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDA_9595ButtonObjects1.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDA_9595ButtonObjects2.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDB_9595ButtonObjects1.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDB_9595ButtonObjects2.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDFireballObjects1.length = 0;
+gdjs.JUEGO_32COMPLETADOCode.GDFireballObjects2.length = 0;
 
 
 return;

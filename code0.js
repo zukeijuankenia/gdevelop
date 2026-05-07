@@ -27,6 +27,14 @@ gdjs.MENUCode.GDtitulo_9595subvidaObjects1= [];
 gdjs.MENUCode.GDtitulo_9595subvidaObjects2= [];
 gdjs.MENUCode.GD_95951Objects1= [];
 gdjs.MENUCode.GD_95951Objects2= [];
+gdjs.MENUCode.GDShadedLightJoystickObjects1= [];
+gdjs.MENUCode.GDShadedLightJoystickObjects2= [];
+gdjs.MENUCode.GDA_9595ButtonObjects1= [];
+gdjs.MENUCode.GDA_9595ButtonObjects2= [];
+gdjs.MENUCode.GDB_9595ButtonObjects1= [];
+gdjs.MENUCode.GDB_9595ButtonObjects2= [];
+gdjs.MENUCode.GDFireballObjects1= [];
+gdjs.MENUCode.GDFireballObjects2= [];
 
 
 gdjs.MENUCode.eventsList0 = function(runtimeScene) {
@@ -84,6 +92,14 @@ gdjs.MENUCode.GDtitulo_9595subvidaObjects1.length = 0;
 gdjs.MENUCode.GDtitulo_9595subvidaObjects2.length = 0;
 gdjs.MENUCode.GD_95951Objects1.length = 0;
 gdjs.MENUCode.GD_95951Objects2.length = 0;
+gdjs.MENUCode.GDShadedLightJoystickObjects1.length = 0;
+gdjs.MENUCode.GDShadedLightJoystickObjects2.length = 0;
+gdjs.MENUCode.GDA_9595ButtonObjects1.length = 0;
+gdjs.MENUCode.GDA_9595ButtonObjects2.length = 0;
+gdjs.MENUCode.GDB_9595ButtonObjects1.length = 0;
+gdjs.MENUCode.GDB_9595ButtonObjects2.length = 0;
+gdjs.MENUCode.GDFireballObjects1.length = 0;
+gdjs.MENUCode.GDFireballObjects2.length = 0;
 
 gdjs.MENUCode.eventsList0(runtimeScene);
 gdjs.MENUCode.GDTransparentButtonWithWhiteYellowBorderObjects1.length = 0;
@@ -112,6 +128,14 @@ gdjs.MENUCode.GDtitulo_9595subvidaObjects1.length = 0;
 gdjs.MENUCode.GDtitulo_9595subvidaObjects2.length = 0;
 gdjs.MENUCode.GD_95951Objects1.length = 0;
 gdjs.MENUCode.GD_95951Objects2.length = 0;
+gdjs.MENUCode.GDShadedLightJoystickObjects1.length = 0;
+gdjs.MENUCode.GDShadedLightJoystickObjects2.length = 0;
+gdjs.MENUCode.GDA_9595ButtonObjects1.length = 0;
+gdjs.MENUCode.GDA_9595ButtonObjects2.length = 0;
+gdjs.MENUCode.GDB_9595ButtonObjects1.length = 0;
+gdjs.MENUCode.GDB_9595ButtonObjects2.length = 0;
+gdjs.MENUCode.GDFireballObjects1.length = 0;
+gdjs.MENUCode.GDFireballObjects2.length = 0;
 
 
 return;

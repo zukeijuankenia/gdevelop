@@ -31,6 +31,14 @@ gdjs.GAME_32OVERCode.GDtitulo_9595subvidaObjects1= [];
 gdjs.GAME_32OVERCode.GDtitulo_9595subvidaObjects2= [];
 gdjs.GAME_32OVERCode.GD_95951Objects1= [];
 gdjs.GAME_32OVERCode.GD_95951Objects2= [];
+gdjs.GAME_32OVERCode.GDShadedLightJoystickObjects1= [];
+gdjs.GAME_32OVERCode.GDShadedLightJoystickObjects2= [];
+gdjs.GAME_32OVERCode.GDA_9595ButtonObjects1= [];
+gdjs.GAME_32OVERCode.GDA_9595ButtonObjects2= [];
+gdjs.GAME_32OVERCode.GDB_9595ButtonObjects1= [];
+gdjs.GAME_32OVERCode.GDB_9595ButtonObjects2= [];
+gdjs.GAME_32OVERCode.GDFireballObjects1= [];
+gdjs.GAME_32OVERCode.GDFireballObjects2= [];
 
 
 gdjs.GAME_32OVERCode.eventsList0 = function(runtimeScene) {
@@ -102,6 +110,14 @@ gdjs.GAME_32OVERCode.GDtitulo_9595subvidaObjects1.length = 0;
 gdjs.GAME_32OVERCode.GDtitulo_9595subvidaObjects2.length = 0;
 gdjs.GAME_32OVERCode.GD_95951Objects1.length = 0;
 gdjs.GAME_32OVERCode.GD_95951Objects2.length = 0;
+gdjs.GAME_32OVERCode.GDShadedLightJoystickObjects1.length = 0;
+gdjs.GAME_32OVERCode.GDShadedLightJoystickObjects2.length = 0;
+gdjs.GAME_32OVERCode.GDA_9595ButtonObjects1.length = 0;
+gdjs.GAME_32OVERCode.GDA_9595ButtonObjects2.length = 0;
+gdjs.GAME_32OVERCode.GDB_9595ButtonObjects1.length = 0;
+gdjs.GAME_32OVERCode.GDB_9595ButtonObjects2.length = 0;
+gdjs.GAME_32OVERCode.GDFireballObjects1.length = 0;
+gdjs.GAME_32OVERCode.GDFireballObjects2.length = 0;
 
 gdjs.GAME_32OVERCode.eventsList0(runtimeScene);
 gdjs.GAME_32OVERCode.GDMedievalButtonBeigeObjects1.length = 0;
@@ -134,6 +150,14 @@ gdjs.GAME_32OVERCode.GDtitulo_9595subvidaObjects1.length = 0;
 gdjs.GAME_32OVERCode.GDtitulo_9595subvidaObjects2.length = 0;
 gdjs.GAME_32OVERCode.GD_95951Objects1.length = 0;
 gdjs.GAME_32OVERCode.GD_95951Objects2.length = 0;
+gdjs.GAME_32OVERCode.GDShadedLightJoystickObjects1.length = 0;
+gdjs.GAME_32OVERCode.GDShadedLightJoystickObjects2.length = 0;
+gdjs.GAME_32OVERCode.GDA_9595ButtonObjects1.length = 0;
+gdjs.GAME_32OVERCode.GDA_9595ButtonObjects2.length = 0;
+gdjs.GAME_32OVERCode.GDB_9595ButtonObjects1.length = 0;
+gdjs.GAME_32OVERCode.GDB_9595ButtonObjects2.length = 0;
+gdjs.GAME_32OVERCode.GDFireballObjects1.length = 0;
+gdjs.GAME_32OVERCode.GDFireballObjects2.length = 0;
 
 
 return;
